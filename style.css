@@ -7,6 +7,12 @@ body{
   height: auto;
 }
 
+.img {
+  max-width: 100%;
+  height: auto;
+  text-align: center;
+}
+
 h1 {
 	color:#424141;
 	font-size: 30px;
