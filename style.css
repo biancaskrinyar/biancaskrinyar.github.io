@@ -35,7 +35,7 @@ html {
 }
 
 .header {
-  overflow: visible;
+  overflow: auto;
   background-color: #121a0a;
   margin-bottom: 70px;
   height: 80px;
