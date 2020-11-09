@@ -23,6 +23,10 @@ h1 {
 	width: 70%;
 }
 
+.col-sm-auto {
+	width: 70%;
+}
+
 p {
 	color:#424141;
 	font-size: 20px;
@@ -38,6 +42,9 @@ html {
 
 .col-md-6 {
 	background-color: #1f1f1f;
+}
+
+.container {align: center;
 }
 
 .header {
