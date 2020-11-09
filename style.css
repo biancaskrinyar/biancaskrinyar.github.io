@@ -73,8 +73,9 @@ html {
 
 .text-center {
 	 display: block;
-  margin-left: center;
-  margin-right: center;
+  margin-left: auto;
+  margin-right: auto;
+  align-items: center;
   max-width: 100%
   height: auto;
 }
