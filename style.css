@@ -53,18 +53,6 @@ html {
   font-family: sans-serif;
 }
 
-.header b {
-  float: left;
-  color: white;
-  text-align: center;
-  padding: 28px;
-  text-decoration: none;
-  font-size: 16px;
-  line-height: 25px;
-  border-radius: 0px;
-  font-family: sans-serif;
-}
-
 .footer {
 	float: center;
 	color: white;
