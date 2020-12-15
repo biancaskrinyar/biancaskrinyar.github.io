@@ -54,6 +54,7 @@ html {
 }
 
 .footer {
+	position: fixed;
 	float: center;
 	color: white;
 	text-align: center;
