@@ -73,12 +73,6 @@ p {
 	padding-top: 10px;
 }
 
-@media screen and only (max-width: 600px) {
-p {
-  width: 100px;
- }
-}
-
 .footer{
 	color: white;
 	text-align: center;
@@ -92,3 +86,28 @@ p {
 	width: 100%;
 }
 
+
+@media only screen and (max-device-width: 480px) {
+        #ul {
+            width: 70%;
+        }
+
+        div#image {
+            width: 100%; 
+			text-align: center;
+			padding-top: 80px;
+			margin: auto;
+        }
+
+        #h1 {
+            font-size: 100%;
+        }
+
+        #h2 {
+         	font-size: 100%;
+        }
+
+		#p {
+			font-size: 100%;
+			width: 100%;
+           }
