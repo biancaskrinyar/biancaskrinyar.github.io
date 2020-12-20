@@ -87,7 +87,7 @@ p {
 }
 
 
-@media only screen and (max-device-width: 480px) {
+@media screen and (max-width: 600px) {
         #ul {
             width: 70%;
         }
