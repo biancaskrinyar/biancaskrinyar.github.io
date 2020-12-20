@@ -43,6 +43,7 @@ li a:hover{
 	margin: auto;
 }
 
+
 h1 {
 	width: 100%;
 	color:#424141;
@@ -70,6 +71,12 @@ p {
 	padding-right: 20%;
 	padding-bottom: 25px;
 	padding-top: 10px;
+}
+
+@media screen and only (max-width: 600px) {
+p {
+  width: 100px;
+ }
 }
 
 .footer{
