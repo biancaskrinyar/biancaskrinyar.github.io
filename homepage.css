@@ -54,7 +54,7 @@ h1 {
 }
 
 h2 {
-	width: 100%;
+	width: 80%;
 	color: black;
 	font-size: 30px;
 	text-align: left;
@@ -62,13 +62,16 @@ h2 {
 }
 
 p {
-	width: 100%;
+	width: 80%;
 	color: black;
 	font-size: 20px;
 	text-align: left;
 	padding-bottom: 25px;
 	padding-top: 10px;
-	margin: 40px;
+	margin-top: 5%;
+  	margin-bottom: 25%;
+ 	margin-right: 25%;
+	margin-left: 25%;
 }
 
 .footer{
