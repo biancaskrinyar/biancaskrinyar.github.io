@@ -45,7 +45,7 @@ li a:hover{
 
 
 h1 {
-	width: 70%;
+	width: 100%;
 	color:black;
 	font-size: 30px;
 	text-align: center;
@@ -58,7 +58,7 @@ h2 {
 	color: black;
 	font-size: 30px;
 	text-align: left;
-	margin: auto;
+	margin: 35px;
 }
 
 p {
@@ -68,7 +68,7 @@ p {
 	text-align: left;
 	padding-bottom: 25px;
 	padding-top: 10px;
-	margin: auto;
+	margin: 35px;
 }
 
 .footer{
