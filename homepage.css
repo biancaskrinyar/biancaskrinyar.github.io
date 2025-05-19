@@ -43,6 +43,11 @@ li a:hover{
 	margin: auto;
 }
 
+.paragraph {
+	width: 100%; 
+	text-align: center;
+	margin: auto;
+}
 
 h1 {
 	width: 100%;
