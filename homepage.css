@@ -43,6 +43,11 @@ li a:hover{
 	margin: auto;
 }
 
+.div {
+	width: 100%; 
+	text-align: left;
+	margin: auto;
+}
 
 h1 {
 	width: 100%;
