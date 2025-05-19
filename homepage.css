@@ -47,7 +47,7 @@ li a:hover{
 	width: 100%; 
 	text-align: center;
 	margin: 20px;
-	margin-left:100px
+	margin-left:35%
 }
 
 h1 {
@@ -96,10 +96,9 @@ p {
 }
 
 
-@media screen and (max-width: 600px) {
-        #ul {
-            width: 70%;
-        }
+@media screen and (max-width: 768px) {
+  margin-right: 25%;
+}
 
         div#image {
             width: 100%; 
