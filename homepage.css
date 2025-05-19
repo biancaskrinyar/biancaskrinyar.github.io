@@ -52,6 +52,7 @@ h1 {
 	padding-top: 60px;
 	padding-left: 20%;
 	padding-right: 20%;
+	margin: auto;
 }
 
 h2 {
@@ -60,6 +61,7 @@ h2 {
 	text-align: left;
 	padding-left: 20%;
 	padding-right: 20%;
+	margin: auto;
 }
 
 p {
@@ -71,6 +73,7 @@ p {
 	padding-right: 20%;
 	padding-bottom: 25px;
 	padding-top: 10px;
+	margin: auto;
 }
 
 .footer{
